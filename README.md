@@ -177,3 +177,4 @@ public class Wordle {
         System.out.println("The word was " + secret);
     }
 }
+
